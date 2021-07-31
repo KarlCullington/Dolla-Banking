@@ -18,8 +18,8 @@ This is a banking site buid with react
 
 ## Resource used
 
-* [Video](pexels.com/videos)
-* [Image](undraw.co)
+* [Video](https://www.pexels.com/videos)
+* [Image](https://www.undraw.co)
 
 ## Credits
 
