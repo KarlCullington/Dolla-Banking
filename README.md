@@ -4,6 +4,8 @@ This is a banking site buid with react
 
 ## How it looks like...
 
+[click to see live](https://dolla-dolla.netlify.app)
+
 ![view](src/images/screenshot.png)
 
 ## How to Run
