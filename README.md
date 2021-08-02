@@ -4,7 +4,7 @@ This is a banking site buid with react
 
 ## How it looks like...
 
-[click to see live](https://dolla-dolla.netlify.app)
+__``[click to see live](https://dolla-dolla.netlify.app)``__
 
 ![view](src/images/screenshot.png)
 
