@@ -1,6 +1,6 @@
 # Dolla
 
-This is a banking site buid with react
+This is a banking site build with react
 
 ## How it looks like...
 
